@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacobM54
-- 👀 I’m interested in programming, rock climbing, astrophysics, backpacking, snowboarding, and reading.
+- 👀 I’m interested in programming, rock climbing, astrophysics, backpacking, snowboarding, photography, and reading.
 - 🌱 I’m currently studying Computer Science at CU Boulder
 - 💞️ I’m looking to collaborate on anything that will help me learn more!
 - 📫 You can reach via email at jamc3321@colorado.edu
